@@ -1,0 +1,11 @@
+0-Ninguno LISTO
+1-Imita ataque y defensa de una carta enemiga LISTO
+2-Aumenta su defensa 500 y de cambia a modo defensa automaticamente LISTO
+4-sacrifica la vida de sus cartas o las del enemigo según cara o cruz LISTO
+5-controla un monstruo (lo pone en el campo propio) LISTO
+6-no la puede atacar al menos que sea la única del campo LISTO
+7-si es destruida se roba dos cartas del mazo LISTO
+8-se sacrifica a cambio de la invocacion del dragon de ojos rojos si se tiene a este en la mano LISTO
+9-al atacar cambia a modo defensa 
+10-si es destruida destruye al atacante y no se calcula daño LISTO
+11-al atacar a una que esta en defensa se calcula igualmente el daño y esta cambia a modo defensa LISTO
