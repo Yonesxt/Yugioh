@@ -34,7 +34,8 @@ public:
 			cout<<"SINO = TRUE"<<endl<<endl;
 		else
 			cout<<"SINO = FALSE"<<endl<<endl;
-		return cartacampo[i].ataco;};
+		return cartacampo[i].ataco;
+		};
 		int Mazo(){return mazo.size();};
 		vector<Carta> VerM(){return cartamano;};
 		vector<Carta> VerC(){return cartacampo;};
